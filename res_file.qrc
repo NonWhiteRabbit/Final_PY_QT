@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>ico/book_catalog.ico</file>
+        <file>ico/catalog_open.ico</file>
+        <file>ico/new-file_40454.ico</file>
+        <file>ico/add-book_icon-icons.com_71795.ico</file>
+        <file>ico/action_exit_close_remove_13915.ico</file>
+        <file>ico/android-search_icon-icons.com_50501.ico</file>
+        <file>ico/delete_4219.ico</file>
+        <file>ico/open-book-with-minus-sign_icon-icons.com_70432.ico</file>
+        <file>ico/undolinear_106178.ico</file>
+        <file>ico/vcsupdaterequired_93493.ico</file>
+        <file>ico/save_14949.ico</file>
+    </qresource>
+</RCC>
